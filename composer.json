@@ -1,0 +1,15 @@
+{
+    "name": "thang/fake",
+    "description": "i am a faker",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nguyen thang",
+            "email": "ngueynthang011099@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "fzaninotto/faker": "^1.9@dev"
+    }
+}
