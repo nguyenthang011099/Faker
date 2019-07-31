@@ -1,6 +1,6 @@
 <?php
 require 'vendor/autoload.php';
-class Demo{
+class Index{
     public $faker ;
     public $number;
 
@@ -28,5 +28,5 @@ class Demo{
     }
 }
 
-$file= new Demo(5);
+$file= new Index(4);
 $file->information();
